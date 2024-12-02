@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lZjBFR/ixd8=",
+  "success": true,
+  "projectFilePath": "/Users/abhiramkasu/advent_of_code/day1/day1.fsproj",
+  "expectedPackageFiles": [
+    "/Users/abhiramkasu/.nuget/packages/fsharp.core/9.0.100/fsharp.core.9.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
