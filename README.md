@@ -4,6 +4,8 @@
 | Day  | Language |
 |:---:|:---:|
 | Day 1  | ![F#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg) -----F#----- |
+| Day 2  | ![Scala](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg) -----Scala----- |
+
 
 
 
